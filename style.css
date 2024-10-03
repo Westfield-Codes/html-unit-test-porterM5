@@ -12,12 +12,11 @@ th {
 
 td {
     padding:5px;
-    margin-bottom:1em;
+    vertical-align:center;
 }
 
 th {
-  text-align:left;
-  padding-right:2em;
+  text-align:center;
 }
 
 ul {
